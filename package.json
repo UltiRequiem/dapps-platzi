@@ -1,0 +1,8 @@
+{
+  "name": "dapps-platzi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:UltiRequiem/dapps-platzi.git",
+  "author": "Eliaz Bobadilla <eliaz.bobadilladev@gmail.com>",
+  "license": "MIT"
+}
