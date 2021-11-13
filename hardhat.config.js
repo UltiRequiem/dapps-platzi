@@ -1,4 +1,5 @@
 require("@nomiclabs/hardhat-waffle");
+require("dotenv").config()
 const process = require("node:process");
 
 task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
