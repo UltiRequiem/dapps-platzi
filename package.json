@@ -12,5 +12,8 @@
     "ethereum-waffle": "^3.4.0",
     "ethers": "^5.5.1",
     "hardhat": "^2.6.8"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
   }
 }
