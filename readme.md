@@ -1,6 +1,6 @@
-# Title
+# Introduction to the Development of DAPPS
 
-Basic Description
+![Cover](./assets/cover.png)
 
 ## License
 
